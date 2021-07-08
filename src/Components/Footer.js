@@ -5,10 +5,10 @@ const Footer = () => {
     return (
         <footer className="text-white">
             <div className="banner-split container">
-                <p className="rights">Nazwa firmy - wszelkie prawa zastrzeżone, 2021</p>
+                <p>Nazwa firmy - wszelkie prawa zastrzeżone, 2021</p>
                 <div className="social">
-                    <a href="https://www.instagram.com/?hl=pl"><FontAwesomeIcon icon={faInstagram} /></a>
-                    <a href="https://www.facebook.com/"><FontAwesomeIcon icon={faFacebookSquare} /></a>
+                    <i href="https://www.instagram.com/?hl=pl"><FontAwesomeIcon icon={faInstagram} /></i>
+                    <i href="https://www.facebook.com/"><FontAwesomeIcon icon={faFacebookSquare} /></i>
                 </div>
             </div>
         </footer>
@@ -16,4 +16,4 @@ const Footer = () => {
 }
 
 
-export default Footer
+export default Footer;
