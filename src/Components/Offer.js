@@ -21,3 +21,5 @@ const Offer = (props) => {
 }
 
 export default Offer;
+
+//make "new" items go to the beginning of the queue

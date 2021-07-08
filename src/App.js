@@ -3,7 +3,8 @@ import './App.css';
 
 import Navigation from './Components/Navigation';
 import LandingPage from './Components/LandingPage';
-import Main from './Components/Main'
+import Main from './Components/Main';
+import Footer from './Components/Footer';
 
 const itemList = [
   {
@@ -35,7 +36,7 @@ const itemList = [
     id: 6,
     name: "Usługa 6",
     isNew: false
-  }
+  },
 ]
 
 const employeeList = [
@@ -63,7 +64,7 @@ function App() {
       <Navigation />
       <LandingPage />
       <Main employeeList={employeeList} itemList={itemList} />
-
+      <Footer />
     </>
   );
 }
