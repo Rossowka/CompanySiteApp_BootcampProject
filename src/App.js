@@ -37,6 +37,11 @@ const itemList = [
     name: "Usługa 6",
     isNew: false
   },
+  {
+    id: 6,
+    name: "Usługa 6",
+    isNew: true
+  },
 ]
 
 const employeeList = [
