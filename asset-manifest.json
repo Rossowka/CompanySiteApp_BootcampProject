@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/company-site-app_bootcamp-project/static/css/main.a6596345.chunk.css",
+    "main.js": "/company-site-app_bootcamp-project/static/js/main.4616c829.chunk.js",
+    "main.js.map": "/company-site-app_bootcamp-project/static/js/main.4616c829.chunk.js.map",
+    "runtime-main.js": "/company-site-app_bootcamp-project/static/js/runtime-main.6ff0cde0.js",
+    "runtime-main.js.map": "/company-site-app_bootcamp-project/static/js/runtime-main.6ff0cde0.js.map",
+    "static/js/2.699fbded.chunk.js": "/company-site-app_bootcamp-project/static/js/2.699fbded.chunk.js",
+    "static/js/2.699fbded.chunk.js.map": "/company-site-app_bootcamp-project/static/js/2.699fbded.chunk.js.map",
+    "index.html": "/company-site-app_bootcamp-project/index.html",
+    "static/css/main.a6596345.chunk.css.map": "/company-site-app_bootcamp-project/static/css/main.a6596345.chunk.css.map",
+    "static/js/2.699fbded.chunk.js.LICENSE.txt": "/company-site-app_bootcamp-project/static/js/2.699fbded.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ff0cde0.js",
+    "static/js/2.699fbded.chunk.js",
+    "static/css/main.a6596345.chunk.css",
+    "static/js/main.4616c829.chunk.js"
+  ]
+}
